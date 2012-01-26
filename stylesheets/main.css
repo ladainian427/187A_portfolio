@@ -1,0 +1,55 @@
+@import "http://webfonts.justanotherfoundry.com/Facit/";
+
+body
+{
+background-image:url("http://i74.photobucket.com/albums/i280/krazeeboi4rmhell/texturetastic_gray.png");
+}
+
+.navbar {
+	font-size:40px;
+	line-height:35px;
+	font-family:"Helvetica";
+	
+}
+
+.content{
+
+   margin-top:10px;
+   
+}
+
+.projectblock {
+	margin-top:120px;
+}
+
+.projectblock p {
+	font-size:15px;
+
+}
+
+.workspage {
+	margin-top:50px;
+}
+
+.hero-unit {
+margin-top:45px;
+min-height: 200px;
+background: url(http://placehold.it/840x315);
+}
+
+
+.hero-unit > h1 {
+margin-top:60px;
+}
+
+.samples {
+margin-bottom:20px;
+}
+
+.description p {
+font-size:50px;
+}
+
+.abouts {
+margin-bottom:25px;
+}
