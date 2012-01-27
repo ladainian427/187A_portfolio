@@ -6,9 +6,10 @@ background-image:url("http://i74.photobucket.com/albums/i280/krazeeboi4rmhell/te
 }
 
 .navbar {
-	font-size:40px;
+	font-size:20px;
 	line-height:35px;
-	font-family:"Monaco";
+	font-family:"Helvetica"
+	font-weight:"light";
 	
 }
 
@@ -23,7 +24,7 @@ background-image:url("http://i74.photobucket.com/albums/i280/krazeeboi4rmhell/te
 }
 
 .projectblock p {
-	font-size:15px;
+	font-size:20px;
 
 }
 
@@ -32,11 +33,11 @@ background-image:url("http://i74.photobucket.com/albums/i280/krazeeboi4rmhell/te
 }
 
 .hero-unit {
-margin-top:45px;
+margin-top:50px;
 min-height: 200px;
-background: url(http://placehold.it/840x315);
+background: url("");
+background-repeat:no-repeat;
 }
-
 
 .hero-unit > h1 {
 margin-top:60px;
@@ -50,6 +51,22 @@ margin-bottom:20px;
 font-size:50px;
 }
 
-.abouts {
-margin-bottom:25px;
+.abouts p {
+margin-bottom:80px;
+font-size:10px;
 }
+
+
+.bottombar {
+  height: 40px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10000;
+  overflow: visible;
+  
+  }
+  
+
+
