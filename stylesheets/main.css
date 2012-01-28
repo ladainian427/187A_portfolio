@@ -22,6 +22,9 @@ background-image:url("http://i74.photobucket.com/albums/i280/krazeeboi4rmhell/te
 
 .projectblock {
 	margin-top:60px;
+	font-family:"Helvetica";
+	font-weight:"light";
+	font-size:50px;
 }
 
 
@@ -79,5 +82,8 @@ overflow:visible;
 margin-top: 30px;
 }
   
+.active {
+color:#000000;
+}
 
 
