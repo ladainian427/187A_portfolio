@@ -27,7 +27,15 @@ background-image:url("http://i74.photobucket.com/albums/i280/krazeeboi4rmhell/te
 	font-size:50px;
 }
 
+table, td
+{
+border: 2px solid black;
 
+}
+td{
+ padding-right: -100px;
+ margin-right: 100px;
+}
 
 .projectblock p {
 	font-size:20px;
